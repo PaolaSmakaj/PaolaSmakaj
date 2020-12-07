@@ -12,7 +12,7 @@ Investigation
 ### Contacts:
 [<img align="left" alt="paolasmakaj | LinkedIn" width="35px" src="https://img.icons8.com/doodle/48/000000/new-post.png" />][email]
 [<img align="left" alt="paolasmakaj | LinkedIn" width="35px" src="https://img.icons8.com/doodle/48/000000/facebook-new.png" />][facebook]
-[<img align="left" alt="paolasmakaj | LinkedIn" width="35px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />][linkedin]
+[<img align="left" alt="paolasmakaj | LinkedIn" width="35px" src="https://img.icons8.com/doodle/48/000000/linkedin-circled.png" />][linkedin]
 
 [email]:mailto:paola.smakaj@gmail.com
 [facebook]: https://www.facebook.com/PaolaSmakaj

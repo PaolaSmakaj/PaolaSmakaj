@@ -2,7 +2,7 @@
 I'm Paola!
 - I'm very passionate about solving crimes with science using, in particular, the techniques of Digital Forensics and Computer
 Investigation
-- I'm currently finishing my studies in Computer Science and Engineering
+- I graduated in Computer Science and Engineering at the University of Bologna
 - I love to draw!
 
 <!--
